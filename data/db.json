@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Tiago Gonçalves",
+      "email": "tiagogn@gmail.com",
+      "age": 40,
+      "birthDate": "1983-01-01T00:00:00.000Z",
+      "createdAt": "2020-01-01T00:00:00.000Z"
+    },
+    {
+      "name": "Felipe Gonçalves",
+      "email": "lipegn2@gmail.com",
+      "age": 33,
+      "birthDate": "1990-08-16T00:00:00.000Z",
+      "createdAt": "2023-09-22T17:16:17.799Z",
+      "id": 2
+    },
+    {
+      "name": "Mariana Gattto Gonçalves",
+      "email": "marianammg@gmail.com",
+      "age": 32,
+      "birthDate": "1991-06-26T00:00:00.000Z",
+      "createdAt": "2023-09-22T17:18:20.827Z",
+      "id": 3
+    },
+    {
+      "name": "Anizio Gonçalves",
+      "email": "aniziogn@gmail.com",
+      "age": 71,
+      "birthDate": "1952-04-25T00:00:00.000Z",
+      "createdAt": "2023-09-22T17:24:19.954Z",
+      "id": 4
+    }
+  ],
+  "book": [
+    {
+      "id": 1,
+      "title": "Masters of Java"
+    },
+    {
+      "id": 2,
+      "title": "Type Script"
+    },
+    {
+      "id": 3,
+      "title": "Kotlin"
+    },
+    {
+      "id": 4,
+      "title": "Master of Graphql"
+    },
+    {
+      "id": 5,
+      "title": "Book 1"
+    }
+  ]
+}

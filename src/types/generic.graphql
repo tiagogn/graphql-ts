@@ -1,0 +1,18 @@
+scalar Date
+scalar DateTime
+
+interface Response {
+    code: Int!
+    message: String!
+}
+
+type ResponseEmpty implements Response {
+    code: Int!
+    message: String!
+}
+
+type ResponseError implements Response {
+    code: Int!
+    message: String!
+    errors: [String]
+}
